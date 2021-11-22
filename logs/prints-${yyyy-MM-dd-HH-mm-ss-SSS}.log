@@ -1,0 +1,565 @@
+00:08:16.188 [main] INFO  com.mindtree.reusablecomponent.Base - Accessing the property file
+00:08:16.194 [main] INFO  com.mindtree.reusablecomponent.Base - Initializing Browser
+00:08:18.495 [main] INFO  com.mindtree.reusablecomponent.Base - Invoking the website
+00:08:24.656 [main] INFO  com.mindtree.reusablecomponent.Base - Maximizing the window
+00:08:25.160 [main] INFO  com.mindtree.reusablecomponent.Base - Clicked on cart
+00:08:25.705 [main] INFO  com.mindtree.reusablecomponent.Base - Selecting the item
+00:08:28.861 [main] INFO  com.mindtree.reusablecomponent.Base - Adding the item to cart
+00:08:34.011 [main] INFO  com.mindtree.reusablecomponent.Base - Accessing the property file
+00:08:34.011 [main] INFO  com.mindtree.reusablecomponent.Base - Initializing Browser
+00:08:35.568 [main] INFO  com.mindtree.reusablecomponent.Base - Invoking the website
+00:08:40.236 [main] INFO  com.mindtree.reusablecomponent.Base - Maximizing the window
+00:08:44.445 [main] INFO  com.mindtree.reusablecomponent.Base - Clicking on All Of It section from Navigation Bar
+00:08:44.445 [main] INFO  com.mindtree.reusablecomponent.Base - Clicking on next page button
+00:08:47.529 [main] INFO  com.mindtree.reusablecomponent.Base - Verifying Next Page is displayed
+00:08:48.100 [main] INFO  com.mindtree.reusablecomponent.Base - Accessing the property file
+00:08:48.100 [main] INFO  com.mindtree.reusablecomponent.Base - Initializing Browser
+00:08:49.505 [main] INFO  com.mindtree.reusablecomponent.Base - Invoking the website
+00:08:53.536 [main] INFO  com.mindtree.reusablecomponent.Base - Maximizing the window
+00:08:53.825 [main] INFO  com.mindtree.reusablecomponent.Base - Click on contact us
+00:08:56.401 [main] INFO  com.mindtree.reusablecomponent.Base - Accessing the property file
+00:08:56.401 [main] INFO  com.mindtree.reusablecomponent.Base - Initializing Browser
+00:08:57.927 [main] INFO  com.mindtree.reusablecomponent.Base - Invoking the website
+00:09:02.452 [main] INFO  com.mindtree.reusablecomponent.Base - Maximizing the window
+00:09:02.755 [main] INFO  com.mindtree.reusablecomponent.Base - Clicking on GiftCard
+00:09:06.024 [main] INFO  com.mindtree.reusablecomponent.Base - Enter post code in post code column
+00:09:06.270 [main] INFO  com.mindtree.reusablecomponent.Base - Desired Message is displayed
+00:09:11.694 [main] INFO  com.mindtree.reusablecomponent.Base - Accessing the property file
+00:09:11.694 [main] INFO  com.mindtree.reusablecomponent.Base - Initializing Browser
+00:09:13.053 [main] INFO  com.mindtree.reusablecomponent.Base - Invoking the website
+00:09:18.467 [main] INFO  com.mindtree.reusablecomponent.Base - Maximizing the window
+00:09:19.595 [main] INFO  com.mindtree.reusablecomponent.Base - Accessing the property file
+00:09:19.595 [main] INFO  com.mindtree.reusablecomponent.Base - Initializing Browser
+00:09:21.109 [main] INFO  com.mindtree.reusablecomponent.Base - Invoking the website
+00:09:24.727 [main] INFO  com.mindtree.reusablecomponent.Base - Maximizing the window
+00:09:24.916 [main] INFO  com.mindtree.reusablecomponent.Base - CLicking on sign in button
+00:09:28.974 [main] INFO  com.mindtree.reusablecomponent.Base - Entering username
+00:09:29.113 [main] INFO  com.mindtree.reusablecomponent.Base - Entering Password
+00:09:29.260 [main] INFO  com.mindtree.reusablecomponent.Base - Entered username= testbymanish@gmail.com
+00:09:29.261 [main] INFO  com.mindtree.reusablecomponent.Base - Entered password= testbymanish@123
+00:09:29.261 [main] INFO  com.mindtree.reusablecomponent.Base - Click on login
+00:10:12.043 [main] INFO  com.mindtree.reusablecomponent.Base - Sign in successful
+00:10:12.213 [main] INFO  com.mindtree.reusablecomponent.Base - Accessing the property file
+00:10:12.213 [main] INFO  com.mindtree.reusablecomponent.Base - Initializing Browser
+00:10:13.605 [main] INFO  com.mindtree.reusablecomponent.Base - Invoking the website
+00:10:18.887 [main] INFO  com.mindtree.reusablecomponent.Base - Maximizing the window
+00:10:19.091 [main] INFO  com.mindtree.reusablecomponent.Base - Hovered over Official Merchandise Tab
+00:10:21.450 [main] INFO  com.mindtree.reusablecomponent.Base - Hovered to Marvel Merchandise in subsection and clicked on it
+00:10:28.647 [main] INFO  com.mindtree.reusablecomponent.Base - Title Verified
+00:10:32.816 [main] INFO  com.mindtree.reusablecomponent.Base - Accessing the property file
+00:10:32.816 [main] INFO  com.mindtree.reusablecomponent.Base - Initializing Browser
+00:10:34.252 [main] INFO  com.mindtree.reusablecomponent.Base - Invoking the website
+00:10:37.359 [main] INFO  com.mindtree.reusablecomponent.Base - Maximizing the window
+00:10:37.714 [main] INFO  com.mindtree.reusablecomponent.Base - Entering text into the search bar
+00:10:50.766 [main] INFO  com.mindtree.reusablecomponent.Base - Product dsiplayed
+00:10:51.133 [main] INFO  com.mindtree.reusablecomponent.Base - Accessing the property file
+00:10:51.133 [main] INFO  com.mindtree.reusablecomponent.Base - Initializing Browser
+00:10:52.507 [main] INFO  com.mindtree.reusablecomponent.Base - Invoking the website
+00:10:55.498 [main] INFO  com.mindtree.reusablecomponent.Base - Maximizing the window
+00:16:22.197 [main] INFO  com.mindtree.reusablecomponent.Base - Accessing the property file
+00:16:22.202 [main] INFO  com.mindtree.reusablecomponent.Base - Initializing Browser
+00:16:24.577 [main] INFO  com.mindtree.reusablecomponent.Base - Invoking the website
+00:16:30.258 [main] INFO  com.mindtree.reusablecomponent.Base - Maximizing the window
+00:16:30.567 [main] INFO  com.mindtree.reusablecomponent.Base - Clicked on cart
+00:16:30.759 [main] INFO  com.mindtree.reusablecomponent.Base - Selecting the item
+00:16:33.506 [main] INFO  com.mindtree.reusablecomponent.Base - Adding the item to cart
+00:16:39.055 [main] INFO  com.mindtree.reusablecomponent.Base - Accessing the property file
+00:16:39.055 [main] INFO  com.mindtree.reusablecomponent.Base - Initializing Browser
+00:16:40.704 [main] INFO  com.mindtree.reusablecomponent.Base - Invoking the website
+00:16:45.851 [main] INFO  com.mindtree.reusablecomponent.Base - Maximizing the window
+00:16:49.345 [main] INFO  com.mindtree.reusablecomponent.Base - Clicking on All Of It section from Navigation Bar
+00:16:49.345 [main] INFO  com.mindtree.reusablecomponent.Base - Clicking on next page button
+00:16:53.676 [main] INFO  com.mindtree.reusablecomponent.Base - Verifying Next Page is displayed
+00:18:12.905 [main] INFO  com.mindtree.reusablecomponent.Base - Accessing the property file
+00:18:12.910 [main] INFO  com.mindtree.reusablecomponent.Base - Initializing Browser
+00:18:14.853 [main] INFO  com.mindtree.reusablecomponent.Base - Invoking the website
+00:18:20.940 [main] INFO  com.mindtree.reusablecomponent.Base - Maximizing the window
+00:18:21.210 [main] INFO  com.mindtree.reusablecomponent.Base - Clicked on cart
+00:18:21.628 [main] INFO  com.mindtree.reusablecomponent.Base - Selecting the item
+00:18:24.156 [main] INFO  com.mindtree.reusablecomponent.Base - Adding the item to cart
+00:18:29.670 [main] INFO  com.mindtree.reusablecomponent.Base - Accessing the property file
+00:18:29.671 [main] INFO  com.mindtree.reusablecomponent.Base - Initializing Browser
+00:18:31.389 [main] INFO  com.mindtree.reusablecomponent.Base - Invoking the website
+00:18:35.667 [main] INFO  com.mindtree.reusablecomponent.Base - Maximizing the window
+00:18:38.640 [main] INFO  com.mindtree.reusablecomponent.Base - Clicking on All Of It section from Navigation Bar
+00:18:38.641 [main] INFO  com.mindtree.reusablecomponent.Base - Clicking on next page button
+00:18:41.542 [main] INFO  com.mindtree.reusablecomponent.Base - Verifying Next Page is displayed
+00:22:52.878 [main] INFO  com.mindtree.reusablecomponent.Base - Accessing the property file
+00:22:52.884 [main] INFO  com.mindtree.reusablecomponent.Base - Initializing Browser
+00:22:54.881 [main] INFO  com.mindtree.reusablecomponent.Base - Invoking the website
+00:22:59.207 [main] INFO  com.mindtree.reusablecomponent.Base - Maximizing the window
+00:22:59.621 [main] INFO  com.mindtree.reusablecomponent.Base - Clicked on cart
+00:22:59.999 [main] INFO  com.mindtree.reusablecomponent.Base - Selecting the item
+00:23:02.827 [main] INFO  com.mindtree.reusablecomponent.Base - Adding the item to cart
+00:23:08.416 [main] INFO  com.mindtree.reusablecomponent.Base - Accessing the property file
+00:23:08.416 [main] INFO  com.mindtree.reusablecomponent.Base - Initializing Browser
+00:23:10.070 [main] INFO  com.mindtree.reusablecomponent.Base - Invoking the website
+00:23:14.671 [main] INFO  com.mindtree.reusablecomponent.Base - Maximizing the window
+00:23:18.154 [main] INFO  com.mindtree.reusablecomponent.Base - Clicking on All Of It section from Navigation Bar
+00:23:18.154 [main] INFO  com.mindtree.reusablecomponent.Base - Clicking on next page button
+00:23:21.017 [main] INFO  com.mindtree.reusablecomponent.Base - Verifying Next Page is displayed
+00:28:34.247 [main] INFO  com.mindtree.reusablecomponent.Base - Accessing the property file
+00:28:34.247 [main] INFO  com.mindtree.reusablecomponent.Base - Initializing Browser
+00:28:36.508 [main] INFO  com.mindtree.reusablecomponent.Base - Invoking the website
+00:28:41.157 [main] INFO  com.mindtree.reusablecomponent.Base - Maximizing the window
+00:28:41.424 [main] INFO  com.mindtree.reusablecomponent.Base - Clicked on cart
+00:28:41.733 [main] INFO  com.mindtree.reusablecomponent.Base - Selecting the item
+00:28:44.383 [main] INFO  com.mindtree.reusablecomponent.Base - Adding the item to cart
+00:28:50.027 [main] INFO  com.mindtree.reusablecomponent.Base - Accessing the property file
+00:28:50.027 [main] INFO  com.mindtree.reusablecomponent.Base - Initializing Browser
+00:28:51.812 [main] INFO  com.mindtree.reusablecomponent.Base - Invoking the website
+00:28:55.515 [main] INFO  com.mindtree.reusablecomponent.Base - Maximizing the window
+00:28:59.526 [main] INFO  com.mindtree.reusablecomponent.Base - Clicking on All Of It section from Navigation Bar
+00:28:59.527 [main] INFO  com.mindtree.reusablecomponent.Base - Clicking on next page button
+00:29:02.945 [main] INFO  com.mindtree.reusablecomponent.Base - Verifying Next Page is displayed
+00:30:19.430 [main] INFO  com.mindtree.reusablecomponent.Base - Accessing the property file
+00:30:19.436 [main] INFO  com.mindtree.reusablecomponent.Base - Initializing Browser
+00:30:21.500 [main] INFO  com.mindtree.reusablecomponent.Base - Invoking the website
+00:30:26.800 [main] INFO  com.mindtree.reusablecomponent.Base - Maximizing the window
+00:30:27.160 [main] INFO  com.mindtree.reusablecomponent.Base - Clicked on cart
+00:30:27.815 [main] INFO  com.mindtree.reusablecomponent.Base - Selecting the item
+00:30:31.076 [main] INFO  com.mindtree.reusablecomponent.Base - Adding the item to cart
+00:30:36.712 [main] INFO  com.mindtree.reusablecomponent.Base - Accessing the property file
+00:30:36.713 [main] INFO  com.mindtree.reusablecomponent.Base - Initializing Browser
+00:30:38.299 [main] INFO  com.mindtree.reusablecomponent.Base - Invoking the website
+00:30:41.919 [main] INFO  com.mindtree.reusablecomponent.Base - Maximizing the window
+00:30:46.087 [main] INFO  com.mindtree.reusablecomponent.Base - Clicking on All Of It section from Navigation Bar
+00:30:46.088 [main] INFO  com.mindtree.reusablecomponent.Base - Clicking on next page button
+00:30:49.305 [main] INFO  com.mindtree.reusablecomponent.Base - Verifying Next Page is displayed
+00:30:50.300 [main] INFO  com.mindtree.reusablecomponent.Base - Accessing the property file
+00:30:50.301 [main] INFO  com.mindtree.reusablecomponent.Base - Initializing Browser
+00:30:52.337 [main] INFO  com.mindtree.reusablecomponent.Base - Invoking the website
+00:30:59.688 [main] INFO  com.mindtree.reusablecomponent.Base - Maximizing the window
+00:31:00.181 [main] INFO  com.mindtree.reusablecomponent.Base - Click on contact us
+00:31:03.758 [main] INFO  com.mindtree.reusablecomponent.Base - Accessing the property file
+00:31:03.759 [main] INFO  com.mindtree.reusablecomponent.Base - Initializing Browser
+00:31:05.961 [main] INFO  com.mindtree.reusablecomponent.Base - Invoking the website
+00:31:11.147 [main] INFO  com.mindtree.reusablecomponent.Base - Maximizing the window
+00:31:11.601 [main] INFO  com.mindtree.reusablecomponent.Base - Clicking on GiftCard
+00:31:16.107 [main] INFO  com.mindtree.reusablecomponent.Base - Enter post code in post code column
+00:31:16.619 [main] INFO  com.mindtree.reusablecomponent.Base - Desired Message is displayed
+00:31:22.168 [main] INFO  com.mindtree.reusablecomponent.Base - Accessing the property file
+00:31:22.168 [main] INFO  com.mindtree.reusablecomponent.Base - Initializing Browser
+00:31:24.733 [main] INFO  com.mindtree.reusablecomponent.Base - Invoking the website
+00:31:32.213 [main] INFO  com.mindtree.reusablecomponent.Base - Maximizing the window
+00:31:34.235 [main] INFO  com.mindtree.reusablecomponent.Base - Accessing the property file
+00:31:34.236 [main] INFO  com.mindtree.reusablecomponent.Base - Initializing Browser
+00:31:36.529 [main] INFO  com.mindtree.reusablecomponent.Base - Invoking the website
+00:31:44.622 [main] INFO  com.mindtree.reusablecomponent.Base - Maximizing the window
+00:31:45.215 [main] INFO  com.mindtree.reusablecomponent.Base - CLicking on sign in button
+00:31:51.947 [main] INFO  com.mindtree.reusablecomponent.Base - Entering username
+00:31:52.273 [main] INFO  com.mindtree.reusablecomponent.Base - Entering Password
+00:31:52.539 [main] INFO  com.mindtree.reusablecomponent.Base - Entered username= testbymanish@gmail.com
+00:31:52.539 [main] INFO  com.mindtree.reusablecomponent.Base - Entered password= testbymanish@123
+00:31:52.539 [main] INFO  com.mindtree.reusablecomponent.Base - Click on login
+00:32:37.859 [main] INFO  com.mindtree.reusablecomponent.Base - Sign in successful
+00:32:38.297 [main] INFO  com.mindtree.reusablecomponent.Base - Accessing the property file
+00:32:38.297 [main] INFO  com.mindtree.reusablecomponent.Base - Initializing Browser
+00:32:41.276 [main] INFO  com.mindtree.reusablecomponent.Base - Invoking the website
+00:32:48.139 [main] INFO  com.mindtree.reusablecomponent.Base - Maximizing the window
+00:32:48.602 [main] INFO  com.mindtree.reusablecomponent.Base - Hovered over Official Merchandise Tab
+00:32:51.030 [main] INFO  com.mindtree.reusablecomponent.Base - Hovered to Marvel Merchandise in subsection and clicked on it
+00:32:59.295 [main] INFO  com.mindtree.reusablecomponent.Base - Title Verified
+00:33:00.715 [main] INFO  com.mindtree.reusablecomponent.Base - Accessing the property file
+00:33:00.715 [main] INFO  com.mindtree.reusablecomponent.Base - Initializing Browser
+00:33:04.540 [main] INFO  com.mindtree.reusablecomponent.Base - Invoking the website
+00:33:15.183 [main] INFO  com.mindtree.reusablecomponent.Base - Maximizing the window
+00:33:16.095 [main] INFO  com.mindtree.reusablecomponent.Base - Entering text into the search bar
+00:33:34.583 [main] INFO  com.mindtree.reusablecomponent.Base - Product dsiplayed
+00:33:35.446 [main] INFO  com.mindtree.reusablecomponent.Base - Accessing the property file
+00:33:35.446 [main] INFO  com.mindtree.reusablecomponent.Base - Initializing Browser
+00:33:39.198 [main] INFO  com.mindtree.reusablecomponent.Base - Invoking the website
+00:33:48.649 [main] INFO  com.mindtree.reusablecomponent.Base - Maximizing the window
+00:41:38.366 [main] INFO  com.mindtree.reusablecomponent.Base - Accessing the property file
+00:41:38.370 [main] INFO  com.mindtree.reusablecomponent.Base - Initializing Browser
+00:41:40.469 [main] INFO  com.mindtree.reusablecomponent.Base - Invoking the website
+00:41:45.351 [main] INFO  com.mindtree.reusablecomponent.Base - Maximizing the window
+00:41:45.531 [main] INFO  com.mindtree.reusablecomponent.Base - Clicked on cart
+00:41:45.840 [main] INFO  com.mindtree.reusablecomponent.Base - Selecting the item
+00:41:49.681 [main] INFO  com.mindtree.reusablecomponent.Base - Adding the item to cart
+00:41:55.336 [main] INFO  com.mindtree.reusablecomponent.Base - Accessing the property file
+00:41:55.336 [main] INFO  com.mindtree.reusablecomponent.Base - Initializing Browser
+00:41:56.747 [main] INFO  com.mindtree.reusablecomponent.Base - Invoking the website
+00:41:59.936 [main] INFO  com.mindtree.reusablecomponent.Base - Maximizing the window
+00:42:03.546 [main] INFO  com.mindtree.reusablecomponent.Base - Clicking on All Of It section from Navigation Bar
+00:42:03.547 [main] INFO  com.mindtree.reusablecomponent.Base - Clicking on next page button
+00:42:06.899 [main] INFO  com.mindtree.reusablecomponent.Base - Verifying Next Page is displayed
+00:42:07.838 [main] INFO  com.mindtree.reusablecomponent.Base - Accessing the property file
+00:42:07.839 [main] INFO  com.mindtree.reusablecomponent.Base - Initializing Browser
+00:42:09.536 [main] INFO  com.mindtree.reusablecomponent.Base - Invoking the website
+00:42:14.573 [main] INFO  com.mindtree.reusablecomponent.Base - Maximizing the window
+00:42:14.963 [main] INFO  com.mindtree.reusablecomponent.Base - Click on contact us
+00:42:18.150 [main] INFO  com.mindtree.reusablecomponent.Base - Accessing the property file
+00:42:18.150 [main] INFO  com.mindtree.reusablecomponent.Base - Initializing Browser
+00:42:19.957 [main] INFO  com.mindtree.reusablecomponent.Base - Invoking the website
+00:42:26.387 [main] INFO  com.mindtree.reusablecomponent.Base - Maximizing the window
+00:42:26.718 [main] INFO  com.mindtree.reusablecomponent.Base - Clicking on GiftCard
+00:42:29.544 [main] INFO  com.mindtree.reusablecomponent.Base - Enter post code in post code column
+00:42:30.144 [main] INFO  com.mindtree.reusablecomponent.Base - Desired Message is displayed
+00:42:35.683 [main] INFO  com.mindtree.reusablecomponent.Base - Accessing the property file
+00:42:35.689 [main] INFO  com.mindtree.reusablecomponent.Base - Initializing Browser
+00:42:37.404 [main] INFO  com.mindtree.reusablecomponent.Base - Invoking the website
+00:42:45.044 [main] INFO  com.mindtree.reusablecomponent.Base - Maximizing the window
+00:42:46.265 [main] INFO  com.mindtree.reusablecomponent.Base - Accessing the property file
+00:42:46.265 [main] INFO  com.mindtree.reusablecomponent.Base - Initializing Browser
+00:42:48.434 [main] INFO  com.mindtree.reusablecomponent.Base - Invoking the website
+00:42:54.936 [main] INFO  com.mindtree.reusablecomponent.Base - Maximizing the window
+00:42:55.318 [main] INFO  com.mindtree.reusablecomponent.Base - CLicking on sign in button
+00:42:59.923 [main] INFO  com.mindtree.reusablecomponent.Base - Entering username
+00:43:00.071 [main] INFO  com.mindtree.reusablecomponent.Base - Entering Password
+00:43:00.214 [main] INFO  com.mindtree.reusablecomponent.Base - Entered username= testbymanish@gmail.com
+00:43:00.214 [main] INFO  com.mindtree.reusablecomponent.Base - Entered password= testbymanish@123
+00:43:00.215 [main] INFO  com.mindtree.reusablecomponent.Base - Click on login
+00:43:43.925 [main] INFO  com.mindtree.reusablecomponent.Base - Sign in successful
+00:43:44.380 [main] INFO  com.mindtree.reusablecomponent.Base - Accessing the property file
+00:43:44.381 [main] INFO  com.mindtree.reusablecomponent.Base - Initializing Browser
+00:43:46.280 [main] INFO  com.mindtree.reusablecomponent.Base - Invoking the website
+00:43:53.037 [main] INFO  com.mindtree.reusablecomponent.Base - Maximizing the window
+00:43:53.377 [main] INFO  com.mindtree.reusablecomponent.Base - Hovered over Official Merchandise Tab
+00:43:55.992 [main] INFO  com.mindtree.reusablecomponent.Base - Hovered to Marvel Merchandise in subsection and clicked on it
+00:44:02.200 [main] INFO  com.mindtree.reusablecomponent.Base - Title Verified
+00:44:03.545 [main] INFO  com.mindtree.reusablecomponent.Base - Accessing the property file
+00:44:03.546 [main] INFO  com.mindtree.reusablecomponent.Base - Initializing Browser
+00:44:07.157 [main] INFO  com.mindtree.reusablecomponent.Base - Invoking the website
+00:44:16.252 [main] INFO  com.mindtree.reusablecomponent.Base - Maximizing the window
+00:44:17.853 [main] INFO  com.mindtree.reusablecomponent.Base - Entering text into the search bar
+00:44:36.026 [main] INFO  com.mindtree.reusablecomponent.Base - Product dsiplayed
+00:44:37.342 [main] INFO  com.mindtree.reusablecomponent.Base - Accessing the property file
+00:44:37.342 [main] INFO  com.mindtree.reusablecomponent.Base - Initializing Browser
+00:44:40.345 [main] INFO  com.mindtree.reusablecomponent.Base - Invoking the website
+00:44:47.879 [main] INFO  com.mindtree.reusablecomponent.Base - Maximizing the window
+00:52:35.194 [main] INFO  com.mindtree.reusablecomponent.Base - Accessing the property file
+00:52:35.198 [main] INFO  com.mindtree.reusablecomponent.Base - Initializing Browser
+00:52:37.182 [main] INFO  com.mindtree.reusablecomponent.Base - Invoking the website
+00:52:44.349 [main] INFO  com.mindtree.reusablecomponent.Base - Maximizing the window
+00:52:44.619 [main] INFO  com.mindtree.reusablecomponent.Base - Clicked on cart
+00:52:44.879 [main] INFO  com.mindtree.reusablecomponent.Base - Selecting the item
+00:52:47.932 [main] INFO  com.mindtree.reusablecomponent.Base - Adding the item to cart
+00:52:53.507 [main] INFO  com.mindtree.reusablecomponent.Base - Accessing the property file
+00:52:53.507 [main] INFO  com.mindtree.reusablecomponent.Base - Initializing Browser
+00:52:54.900 [main] INFO  com.mindtree.reusablecomponent.Base - Invoking the website
+00:52:59.405 [main] INFO  com.mindtree.reusablecomponent.Base - Maximizing the window
+00:53:03.097 [main] INFO  com.mindtree.reusablecomponent.Base - Clicking on All Of It section from Navigation Bar
+00:53:03.097 [main] INFO  com.mindtree.reusablecomponent.Base - Clicking on next page button
+00:53:06.318 [main] INFO  com.mindtree.reusablecomponent.Base - Verifying Next Page is displayed
+00:53:07.125 [main] INFO  com.mindtree.reusablecomponent.Base - Accessing the property file
+00:53:07.125 [main] INFO  com.mindtree.reusablecomponent.Base - Initializing Browser
+00:53:08.840 [main] INFO  com.mindtree.reusablecomponent.Base - Invoking the website
+00:53:14.302 [main] INFO  com.mindtree.reusablecomponent.Base - Maximizing the window
+00:53:14.791 [main] INFO  com.mindtree.reusablecomponent.Base - Click on contact us
+00:53:18.515 [main] INFO  com.mindtree.reusablecomponent.Base - Accessing the property file
+00:53:18.515 [main] INFO  com.mindtree.reusablecomponent.Base - Initializing Browser
+00:53:20.161 [main] INFO  com.mindtree.reusablecomponent.Base - Invoking the website
+00:53:24.997 [main] INFO  com.mindtree.reusablecomponent.Base - Maximizing the window
+00:53:25.530 [main] INFO  com.mindtree.reusablecomponent.Base - Clicking on GiftCard
+00:53:29.195 [main] INFO  com.mindtree.reusablecomponent.Base - Enter post code in post code column
+00:53:29.806 [main] INFO  com.mindtree.reusablecomponent.Base - Desired Message is displayed
+00:53:35.363 [main] INFO  com.mindtree.reusablecomponent.Base - Accessing the property file
+00:53:35.364 [main] INFO  com.mindtree.reusablecomponent.Base - Initializing Browser
+00:53:37.277 [main] INFO  com.mindtree.reusablecomponent.Base - Invoking the website
+00:53:42.997 [main] INFO  com.mindtree.reusablecomponent.Base - Maximizing the window
+00:53:44.767 [main] INFO  com.mindtree.reusablecomponent.Base - Accessing the property file
+00:53:44.767 [main] INFO  com.mindtree.reusablecomponent.Base - Initializing Browser
+00:53:46.840 [main] INFO  com.mindtree.reusablecomponent.Base - Invoking the website
+00:53:52.517 [main] INFO  com.mindtree.reusablecomponent.Base - Maximizing the window
+00:53:52.939 [main] INFO  com.mindtree.reusablecomponent.Base - CLicking on sign in button
+00:53:58.287 [main] INFO  com.mindtree.reusablecomponent.Base - Entering username
+00:53:58.564 [main] INFO  com.mindtree.reusablecomponent.Base - Entering Password
+00:53:58.743 [main] INFO  com.mindtree.reusablecomponent.Base - Entered username= testbymanish@gmail.com
+00:53:58.743 [main] INFO  com.mindtree.reusablecomponent.Base - Entered password= testbymanish@123
+00:53:58.743 [main] INFO  com.mindtree.reusablecomponent.Base - Click on login
+00:54:42.725 [main] INFO  com.mindtree.reusablecomponent.Base - Sign in successful
+00:54:42.988 [main] INFO  com.mindtree.reusablecomponent.Base - Accessing the property file
+00:54:42.988 [main] INFO  com.mindtree.reusablecomponent.Base - Initializing Browser
+00:54:44.894 [main] INFO  com.mindtree.reusablecomponent.Base - Invoking the website
+00:54:51.368 [main] INFO  com.mindtree.reusablecomponent.Base - Maximizing the window
+00:54:51.661 [main] INFO  com.mindtree.reusablecomponent.Base - Hovered over Official Merchandise Tab
+00:54:54.048 [main] INFO  com.mindtree.reusablecomponent.Base - Hovered to Marvel Merchandise in subsection and clicked on it
+00:55:01.206 [main] INFO  com.mindtree.reusablecomponent.Base - Title Verified
+00:55:02.700 [main] INFO  com.mindtree.reusablecomponent.Base - Accessing the property file
+00:55:02.700 [main] INFO  com.mindtree.reusablecomponent.Base - Initializing Browser
+00:55:05.183 [main] INFO  com.mindtree.reusablecomponent.Base - Invoking the website
+00:55:13.492 [main] INFO  com.mindtree.reusablecomponent.Base - Maximizing the window
+00:55:14.200 [main] INFO  com.mindtree.reusablecomponent.Base - Entering text into the search bar
+00:55:33.215 [main] INFO  com.mindtree.reusablecomponent.Base - Product dsiplayed
+00:55:34.123 [main] INFO  com.mindtree.reusablecomponent.Base - Accessing the property file
+00:55:34.124 [main] INFO  com.mindtree.reusablecomponent.Base - Initializing Browser
+00:55:37.525 [main] INFO  com.mindtree.reusablecomponent.Base - Invoking the website
+00:55:46.460 [main] INFO  com.mindtree.reusablecomponent.Base - Maximizing the window
+01:07:31.263 [main] INFO  com.mindtree.reusablecomponent.Base - Accessing the property file
+01:07:31.301 [main] INFO  com.mindtree.reusablecomponent.Base - Initializing Browser
+01:07:36.587 [main] INFO  com.mindtree.reusablecomponent.Base - Invoking the website
+01:07:44.979 [main] INFO  com.mindtree.reusablecomponent.Base - Maximizing the window
+01:07:45.452 [main] INFO  com.mindtree.reusablecomponent.Base - Clicked on cart
+01:07:46.042 [main] INFO  com.mindtree.reusablecomponent.Base - Selecting the item
+01:07:49.742 [main] INFO  com.mindtree.reusablecomponent.Base - Adding the item to cart
+03:13:07.717 [main] INFO  com.mindtree.reusablecomponent.Base - Accessing the property file
+03:13:07.734 [main] INFO  com.mindtree.reusablecomponent.Base - Initializing Browser
+03:13:09.921 [main] INFO  com.mindtree.reusablecomponent.Base - Invoking the website
+03:13:16.469 [main] INFO  com.mindtree.reusablecomponent.Base - Maximizing the window
+03:13:17.185 [main] INFO  com.mindtree.reusablecomponent.Base - Clicked on cart
+03:13:17.896 [main] INFO  com.mindtree.reusablecomponent.Base - Selecting the item
+03:13:21.149 [main] INFO  com.mindtree.reusablecomponent.Base - Adding the item to cart
+03:13:39.665 [main] INFO  com.mindtree.reusablecomponent.Base - Accessing the property file
+03:13:39.666 [main] INFO  com.mindtree.reusablecomponent.Base - Initializing Browser
+03:13:42.316 [main] INFO  com.mindtree.reusablecomponent.Base - Invoking the website
+03:13:48.347 [main] INFO  com.mindtree.reusablecomponent.Base - Maximizing the window
+03:13:55.246 [main] INFO  com.mindtree.reusablecomponent.Base - Clicking on All Of It section from Navigation Bar
+03:13:55.246 [main] INFO  com.mindtree.reusablecomponent.Base - Clicking on next page button
+03:14:00.174 [main] INFO  com.mindtree.reusablecomponent.Base - Verifying Next Page is displayed
+03:14:13.908 [main] INFO  com.mindtree.reusablecomponent.Base - Accessing the property file
+03:14:13.908 [main] INFO  com.mindtree.reusablecomponent.Base - Initializing Browser
+03:14:18.087 [main] INFO  com.mindtree.reusablecomponent.Base - Invoking the website
+03:14:25.632 [main] INFO  com.mindtree.reusablecomponent.Base - Maximizing the window
+03:14:26.207 [main] INFO  com.mindtree.reusablecomponent.Base - Click on contact us
+03:14:50.901 [main] INFO  com.mindtree.reusablecomponent.Base - Accessing the property file
+03:14:50.901 [main] INFO  com.mindtree.reusablecomponent.Base - Initializing Browser
+03:14:54.356 [main] INFO  com.mindtree.reusablecomponent.Base - Invoking the website
+03:15:01.989 [main] INFO  com.mindtree.reusablecomponent.Base - Maximizing the window
+03:15:03.126 [main] INFO  com.mindtree.reusablecomponent.Base - Clicking on GiftCard
+03:15:08.212 [main] INFO  com.mindtree.reusablecomponent.Base - Enter post code in post code column
+03:15:09.431 [main] INFO  com.mindtree.reusablecomponent.Base - Desired Message is displayed
+03:15:33.646 [main] INFO  com.mindtree.reusablecomponent.Base - Accessing the property file
+03:15:33.646 [main] INFO  com.mindtree.reusablecomponent.Base - Initializing Browser
+03:15:39.899 [main] INFO  com.mindtree.reusablecomponent.Base - Invoking the website
+03:15:48.628 [main] INFO  com.mindtree.reusablecomponent.Base - Maximizing the window
+03:16:08.427 [main] INFO  com.mindtree.reusablecomponent.Base - Accessing the property file
+03:16:08.427 [main] INFO  com.mindtree.reusablecomponent.Base - Initializing Browser
+03:16:14.143 [main] INFO  com.mindtree.reusablecomponent.Base - Invoking the website
+03:16:24.821 [main] INFO  com.mindtree.reusablecomponent.Base - Maximizing the window
+03:16:26.271 [main] INFO  com.mindtree.reusablecomponent.Base - CLicking on sign in button
+03:16:37.545 [main] INFO  com.mindtree.reusablecomponent.Base - Entering username
+03:16:39.276 [main] INFO  com.mindtree.reusablecomponent.Base - Entering Password
+03:16:40.538 [main] INFO  com.mindtree.reusablecomponent.Base - Entered username= testbymanish@gmail.com
+03:16:40.538 [main] INFO  com.mindtree.reusablecomponent.Base - Entered password= testbymanish@123
+03:16:40.538 [main] INFO  com.mindtree.reusablecomponent.Base - Click on login
+03:17:23.503 [main] INFO  com.mindtree.reusablecomponent.Base - Sign in successful
+03:17:41.329 [main] INFO  com.mindtree.reusablecomponent.Base - Accessing the property file
+03:17:41.329 [main] INFO  com.mindtree.reusablecomponent.Base - Initializing Browser
+03:17:46.021 [main] INFO  com.mindtree.reusablecomponent.Base - Invoking the website
+03:17:57.738 [main] INFO  com.mindtree.reusablecomponent.Base - Maximizing the window
+03:17:59.036 [main] INFO  com.mindtree.reusablecomponent.Base - Hovered over Official Merchandise Tab
+03:18:02.546 [main] INFO  com.mindtree.reusablecomponent.Base - Hovered to Marvel Merchandise in subsection and clicked on it
+03:18:16.236 [main] INFO  com.mindtree.reusablecomponent.Base - Title Verified
+03:18:38.691 [main] INFO  com.mindtree.reusablecomponent.Base - Accessing the property file
+03:18:38.691 [main] INFO  com.mindtree.reusablecomponent.Base - Initializing Browser
+03:18:43.926 [main] INFO  com.mindtree.reusablecomponent.Base - Invoking the website
+03:18:58.485 [main] INFO  com.mindtree.reusablecomponent.Base - Maximizing the window
+03:18:59.504 [main] INFO  com.mindtree.reusablecomponent.Base - Entering text into the search bar
+03:19:18.210 [main] INFO  com.mindtree.reusablecomponent.Base - Product dsiplayed
+03:19:37.120 [main] INFO  com.mindtree.reusablecomponent.Base - Accessing the property file
+03:19:37.120 [main] INFO  com.mindtree.reusablecomponent.Base - Initializing Browser
+03:19:42.557 [main] INFO  com.mindtree.reusablecomponent.Base - Invoking the website
+03:19:54.070 [main] INFO  com.mindtree.reusablecomponent.Base - Maximizing the window
+03:20:24.384 [main] INFO  com.mindtree.reusablecomponent.Base - Accessing the property file
+03:20:24.385 [main] INFO  com.mindtree.reusablecomponent.Base - Initializing Browser
+03:20:30.268 [main] INFO  com.mindtree.reusablecomponent.Base - Invoking the website
+03:20:41.549 [main] INFO  com.mindtree.reusablecomponent.Base - Maximizing the window
+03:20:42.765 [main] INFO  com.mindtree.reusablecomponent.Base - Searching an item from the search bar
+03:20:56.691 [main] INFO  com.mindtree.reusablecomponent.Base - Clicked on the desired product
+03:21:07.911 [main] INFO  com.mindtree.reusablecomponent.Base - Clicked on the Add to wishlist
+03:21:13.653 [main] INFO  com.mindtree.reusablecomponent.Base - Clicked on View product in wishlist link and naviagated to the page
+03:21:25.597 [main] INFO  com.mindtree.reusablecomponent.Base - Product verified
+14:01:28.192 [main] INFO  com.mindtree.reusablecomponent.Base - Accessing the property file
+14:01:28.198 [main] INFO  com.mindtree.reusablecomponent.Base - Maximizing the window
+14:01:28.421 [main] INFO  com.mindtree.reusablecomponent.Base - Clicked on cart
+14:01:28.717 [main] INFO  com.mindtree.reusablecomponent.Base - Selecting the item
+14:01:30.952 [main] INFO  com.mindtree.reusablecomponent.Base - Adding the item to cart
+14:01:44.552 [main] INFO  com.mindtree.reusablecomponent.Base - Accessing the property file
+14:01:44.552 [main] INFO  com.mindtree.reusablecomponent.Base - Maximizing the window
+14:01:47.504 [main] INFO  com.mindtree.reusablecomponent.Base - Clicking on All Of It section from Navigation Bar
+14:01:47.505 [main] INFO  com.mindtree.reusablecomponent.Base - Clicking on next page button
+14:01:49.949 [main] INFO  com.mindtree.reusablecomponent.Base - Verifying Next Page is displayed
+14:01:54.692 [main] INFO  com.mindtree.reusablecomponent.Base - Accessing the property file
+14:01:54.694 [main] INFO  com.mindtree.reusablecomponent.Base - Maximizing the window
+14:01:54.944 [main] INFO  com.mindtree.reusablecomponent.Base - Click on contact us
+14:02:01.235 [main] INFO  com.mindtree.reusablecomponent.Base - Accessing the property file
+14:02:01.235 [main] INFO  com.mindtree.reusablecomponent.Base - Maximizing the window
+14:02:01.444 [main] INFO  com.mindtree.reusablecomponent.Base - Clicking on GiftCard
+14:02:03.575 [main] INFO  com.mindtree.reusablecomponent.Base - Enter post code in post code column
+14:02:03.876 [main] INFO  com.mindtree.reusablecomponent.Base - Desired Message is displayed
+14:02:17.414 [main] INFO  com.mindtree.reusablecomponent.Base - Accessing the property file
+14:02:17.414 [main] INFO  com.mindtree.reusablecomponent.Base - Maximizing the window
+14:02:26.762 [main] INFO  com.mindtree.reusablecomponent.Base - Accessing the property file
+14:02:26.762 [main] INFO  com.mindtree.reusablecomponent.Base - Maximizing the window
+14:02:26.946 [main] INFO  com.mindtree.reusablecomponent.Base - CLicking on sign in button
+14:02:30.128 [main] INFO  com.mindtree.reusablecomponent.Base - Entering username
+14:02:30.231 [main] INFO  com.mindtree.reusablecomponent.Base - Entering Password
+14:02:30.340 [main] INFO  com.mindtree.reusablecomponent.Base - Entered username= testbymanish@gmail.com
+14:02:30.340 [main] INFO  com.mindtree.reusablecomponent.Base - Entered password= testbymanish@123
+14:02:30.340 [main] INFO  com.mindtree.reusablecomponent.Base - Click on login
+14:03:12.554 [main] INFO  com.mindtree.reusablecomponent.Base - Sign in successful
+14:03:20.746 [main] INFO  com.mindtree.reusablecomponent.Base - Accessing the property file
+14:03:20.746 [main] INFO  com.mindtree.reusablecomponent.Base - Maximizing the window
+14:03:20.939 [main] INFO  com.mindtree.reusablecomponent.Base - Hovered over Official Merchandise Tab
+14:03:23.301 [main] INFO  com.mindtree.reusablecomponent.Base - Hovered to Marvel Merchandise in subsection and clicked on it
+14:03:28.108 [main] INFO  com.mindtree.reusablecomponent.Base - Title Verified
+14:03:37.075 [main] INFO  com.mindtree.reusablecomponent.Base - Accessing the property file
+14:03:37.075 [main] INFO  com.mindtree.reusablecomponent.Base - Maximizing the window
+14:03:37.345 [main] INFO  com.mindtree.reusablecomponent.Base - Entering text into the search bar
+14:03:49.781 [main] INFO  com.mindtree.reusablecomponent.Base - Product dsiplayed
+14:03:54.053 [main] INFO  com.mindtree.reusablecomponent.Base - Accessing the property file
+14:03:54.053 [main] INFO  com.mindtree.reusablecomponent.Base - Maximizing the window
+14:04:07.836 [main] INFO  com.mindtree.reusablecomponent.Base - Accessing the property file
+14:04:07.836 [main] INFO  com.mindtree.reusablecomponent.Base - Maximizing the window
+14:04:08.048 [main] INFO  com.mindtree.reusablecomponent.Base - Searching an item from the search bar
+14:04:13.271 [main] INFO  com.mindtree.reusablecomponent.Base - Clicked on the desired product
+14:04:15.433 [main] INFO  com.mindtree.reusablecomponent.Base - Clicked on the Add to wishlist
+14:04:20.563 [main] INFO  com.mindtree.reusablecomponent.Base - Clicked on View product in wishlist link and naviagated to the page
+14:04:24.595 [main] INFO  com.mindtree.reusablecomponent.Base - Product verified
+15:12:07.643 [main] INFO  com.mindtree.reusablecomponent.Base - Accessing the property file
+15:12:07.652 [main] INFO  com.mindtree.reusablecomponent.Base - Maximizing the window
+15:18:58.391 [main] INFO  com.mindtree.reusablecomponent.Base - Accessing the property file
+15:18:58.395 [main] INFO  com.mindtree.reusablecomponent.Base - Maximizing the window
+15:18:58.574 [main] INFO  com.mindtree.reusablecomponent.Base - Clicked on cart
+15:18:58.875 [main] INFO  com.mindtree.reusablecomponent.Base - Selecting the item
+15:19:01.061 [main] INFO  com.mindtree.reusablecomponent.Base - Adding the item to cart
+15:19:01.427 [main] INFO  com.mindtree.reusablecomponent.Base - Click on checkout
+15:19:03.293 [main] INFO  com.mindtree.reusablecomponent.Base - Closing the popup
+15:19:08.486 [main] INFO  com.mindtree.reusablecomponent.Base - Order Summary displayed sucessfully
+15:19:13.056 [main] INFO  com.mindtree.reusablecomponent.Base - Accessing the property file
+15:19:13.056 [main] INFO  com.mindtree.reusablecomponent.Base - Maximizing the window
+15:19:16.015 [main] INFO  com.mindtree.reusablecomponent.Base - Clicking on All Of It section from Navigation Bar
+15:19:16.016 [main] INFO  com.mindtree.reusablecomponent.Base - Clicking on next page button
+15:19:18.484 [main] INFO  com.mindtree.reusablecomponent.Base - Verifying Next Page is displayed
+15:19:27.728 [main] INFO  com.mindtree.reusablecomponent.Base - Accessing the property file
+15:19:27.729 [main] INFO  com.mindtree.reusablecomponent.Base - Maximizing the window
+15:19:28.120 [main] INFO  com.mindtree.reusablecomponent.Base - Click on contact us
+15:19:35.215 [main] INFO  com.mindtree.reusablecomponent.Base - Accessing the property file
+15:19:35.215 [main] INFO  com.mindtree.reusablecomponent.Base - Maximizing the window
+15:19:35.455 [main] INFO  com.mindtree.reusablecomponent.Base - Clicking on GiftCard
+15:19:38.096 [main] INFO  com.mindtree.reusablecomponent.Base - Enter post code in post code column
+15:19:38.414 [main] INFO  com.mindtree.reusablecomponent.Base - Desired Message is displayed
+15:19:51.892 [main] INFO  com.mindtree.reusablecomponent.Base - Accessing the property file
+15:19:51.893 [main] INFO  com.mindtree.reusablecomponent.Base - Maximizing the window
+15:19:52.189 [main] INFO  com.mindtree.reusablecomponent.Base - Validating Title Image
+15:19:52.355 [main] INFO  com.mindtree.reusablecomponent.Base - Validating Navigation Bar
+15:19:57.467 [main] INFO  com.mindtree.reusablecomponent.Base - Accessing the property file
+15:19:57.467 [main] INFO  com.mindtree.reusablecomponent.Base - Maximizing the window
+15:19:57.766 [main] INFO  com.mindtree.reusablecomponent.Base - CLicking on sign in button
+15:20:00.473 [main] INFO  com.mindtree.reusablecomponent.Base - Entering username
+15:20:00.611 [main] INFO  com.mindtree.reusablecomponent.Base - Entering Password
+15:20:00.702 [main] INFO  com.mindtree.reusablecomponent.Base - Entered username= testbymanish@gmail.com
+15:20:00.702 [main] INFO  com.mindtree.reusablecomponent.Base - Entered password= testbymanish@123
+15:20:00.703 [main] INFO  com.mindtree.reusablecomponent.Base - Click on login
+15:20:42.927 [main] INFO  com.mindtree.reusablecomponent.Base - Sign in successful
+15:20:51.823 [main] INFO  com.mindtree.reusablecomponent.Base - Accessing the property file
+15:20:51.823 [main] INFO  com.mindtree.reusablecomponent.Base - Maximizing the window
+15:20:52.088 [main] INFO  com.mindtree.reusablecomponent.Base - Hovered over Official Merchandise Tab
+15:20:54.482 [main] INFO  com.mindtree.reusablecomponent.Base - Hovered to Marvel Merchandise in subsection and clicked on it
+15:20:59.630 [main] INFO  com.mindtree.reusablecomponent.Base - Title Verified
+15:21:08.439 [main] INFO  com.mindtree.reusablecomponent.Base - Accessing the property file
+15:21:08.439 [main] INFO  com.mindtree.reusablecomponent.Base - Maximizing the window
+15:21:08.711 [main] INFO  com.mindtree.reusablecomponent.Base - Entering text into the search bar
+15:21:21.296 [main] INFO  com.mindtree.reusablecomponent.Base - Product dsiplayed
+15:21:25.915 [main] INFO  com.mindtree.reusablecomponent.Base - Accessing the property file
+15:21:25.916 [main] INFO  com.mindtree.reusablecomponent.Base - Maximizing the window
+15:21:39.981 [main] INFO  com.mindtree.reusablecomponent.Base - Accessing the property file
+15:21:39.981 [main] INFO  com.mindtree.reusablecomponent.Base - Maximizing the window
+15:21:40.207 [main] INFO  com.mindtree.reusablecomponent.Base - Searching an item from the search bar
+15:21:45.608 [main] INFO  com.mindtree.reusablecomponent.Base - Clicked on the desired product
+15:21:47.838 [main] INFO  com.mindtree.reusablecomponent.Base - Clicked on the Add to wishlist
+15:21:52.991 [main] INFO  com.mindtree.reusablecomponent.Base - Clicked on View product in wishlist link and naviagated to the page
+15:21:57.252 [main] INFO  com.mindtree.reusablecomponent.Base - Product verified
+15:33:26.849 [main] INFO  com.mindtree.reusablecomponent.Base - Accessing the property file
+15:33:26.860 [main] INFO  com.mindtree.reusablecomponent.Base - Maximizing the window
+15:40:26.930 [main] INFO  com.mindtree.reusablecomponent.Base - Accessing the property file
+15:40:26.939 [main] INFO  com.mindtree.reusablecomponent.Base - Maximizing the window
+15:52:25.340 [main] INFO  com.mindtree.reusablecomponent.Base - Accessing the property file
+15:52:25.360 [main] INFO  com.mindtree.reusablecomponent.Base - Maximizing the window
+15:52:25.934 [main] INFO  com.mindtree.reusablecomponent.Base - Clicked on cart
+15:52:26.371 [main] INFO  com.mindtree.reusablecomponent.Base - Selecting the item
+15:52:29.563 [main] INFO  com.mindtree.reusablecomponent.Base - Adding the item to cart
+15:52:29.990 [main] INFO  com.mindtree.reusablecomponent.Base - Click on checkout
+15:52:32.670 [main] INFO  com.mindtree.reusablecomponent.Base - Closing the popup
+15:52:39.019 [main] INFO  com.mindtree.reusablecomponent.Base - Order Summary displayed sucessfully
+15:52:48.861 [main] INFO  com.mindtree.reusablecomponent.Base - Accessing the property file
+15:52:48.861 [main] INFO  com.mindtree.reusablecomponent.Base - Maximizing the window
+15:52:53.153 [main] INFO  com.mindtree.reusablecomponent.Base - Clicking on All Of It section from Navigation Bar
+15:52:53.153 [main] INFO  com.mindtree.reusablecomponent.Base - Clicking on next page button
+15:52:56.658 [main] INFO  com.mindtree.reusablecomponent.Base - Verifying Next Page is displayed
+15:53:06.666 [main] INFO  com.mindtree.reusablecomponent.Base - Accessing the property file
+15:53:06.667 [main] INFO  com.mindtree.reusablecomponent.Base - Maximizing the window
+15:53:07.187 [main] INFO  com.mindtree.reusablecomponent.Base - Click on contact us
+15:53:10.428 [main] INFO  com.mindtree.reusablecomponent.Base - Name entered
+15:53:12.747 [main] INFO  com.mindtree.reusablecomponent.Base - Email-id entered
+15:53:15.019 [main] INFO  com.mindtree.reusablecomponent.Base - Message entered
+15:53:17.152 [main] INFO  com.mindtree.reusablecomponent.Base - Click on submit
+15:53:20.830 [main] ERROR com.mindtree.reusablecomponent.Base - Thankyou message is not displayed
+15:53:30.090 [main] INFO  com.mindtree.reusablecomponent.Base - Accessing the property file
+15:53:30.091 [main] INFO  com.mindtree.reusablecomponent.Base - Maximizing the window
+15:53:30.588 [main] INFO  com.mindtree.reusablecomponent.Base - Clicking on GiftCard
+15:53:34.741 [main] INFO  com.mindtree.reusablecomponent.Base - Enter post code in post code column
+15:53:35.282 [main] INFO  com.mindtree.reusablecomponent.Base - Desired Message is displayed
+15:53:48.863 [main] INFO  com.mindtree.reusablecomponent.Base - Accessing the property file
+15:53:48.864 [main] INFO  com.mindtree.reusablecomponent.Base - Maximizing the window
+15:53:49.369 [main] INFO  com.mindtree.reusablecomponent.Base - Validating Title Image
+15:53:49.600 [main] INFO  com.mindtree.reusablecomponent.Base - Validating Navigation Bar
+15:53:57.147 [main] INFO  com.mindtree.reusablecomponent.Base - Accessing the property file
+15:53:57.148 [main] INFO  com.mindtree.reusablecomponent.Base - Maximizing the window
+15:53:57.648 [main] INFO  com.mindtree.reusablecomponent.Base - CLicking on sign in button
+15:54:01.242 [main] INFO  com.mindtree.reusablecomponent.Base - Entering username
+15:54:01.398 [main] INFO  com.mindtree.reusablecomponent.Base - Entering Password
+15:54:01.551 [main] INFO  com.mindtree.reusablecomponent.Base - Entered username= testbymanish@gmail.com
+15:54:01.551 [main] INFO  com.mindtree.reusablecomponent.Base - Entered password= testbymanish@123
+15:54:01.551 [main] INFO  com.mindtree.reusablecomponent.Base - Click on login
+15:54:45.320 [main] INFO  com.mindtree.reusablecomponent.Base - Sign in successful
+15:54:54.071 [main] INFO  com.mindtree.reusablecomponent.Base - Accessing the property file
+15:54:54.072 [main] INFO  com.mindtree.reusablecomponent.Base - Maximizing the window
+15:54:54.483 [main] INFO  com.mindtree.reusablecomponent.Base - Hovered over Official Merchandise Tab
+15:54:56.923 [main] INFO  com.mindtree.reusablecomponent.Base - Hovered to Marvel Merchandise in subsection and clicked on it
+15:55:03.879 [main] INFO  com.mindtree.reusablecomponent.Base - Title Verified
+15:55:16.947 [main] INFO  com.mindtree.reusablecomponent.Base - Accessing the property file
+15:55:16.947 [main] INFO  com.mindtree.reusablecomponent.Base - Maximizing the window
+15:55:17.358 [main] INFO  com.mindtree.reusablecomponent.Base - Entering text into the search bar
+15:55:31.964 [main] INFO  com.mindtree.reusablecomponent.Base - Product dsiplayed
+15:55:41.944 [main] INFO  com.mindtree.reusablecomponent.Base - Accessing the property file
+15:55:41.945 [main] INFO  com.mindtree.reusablecomponent.Base - Maximizing the window
+15:56:03.203 [main] INFO  com.mindtree.reusablecomponent.Base - Accessing the property file
+15:56:03.205 [main] INFO  com.mindtree.reusablecomponent.Base - Maximizing the window
+15:56:03.468 [main] INFO  com.mindtree.reusablecomponent.Base - Searching an item from the search bar
+15:56:10.245 [main] INFO  com.mindtree.reusablecomponent.Base - Clicked on the desired product
+15:56:13.562 [main] INFO  com.mindtree.reusablecomponent.Base - Clicked on the Add to wishlist
+15:56:18.721 [main] INFO  com.mindtree.reusablecomponent.Base - Clicked on View product in wishlist link and naviagated to the page
+15:56:23.286 [main] INFO  com.mindtree.reusablecomponent.Base - Product verified
+16:28:27.890 [main] INFO  com.mindtree.reusablecomponent.Base - Accessing the property file
+16:28:27.898 [main] INFO  com.mindtree.reusablecomponent.Base - Maximizing the window
+16:31:25.323 [main] INFO  com.mindtree.reusablecomponent.Base - Accessing the property file
+16:31:25.330 [main] INFO  com.mindtree.reusablecomponent.Base - Maximizing the window
+16:31:25.924 [main] INFO  com.mindtree.reusablecomponent.Base - Clicked on cart
+16:31:26.350 [main] INFO  com.mindtree.reusablecomponent.Base - Selecting the item
+16:31:29.520 [main] INFO  com.mindtree.reusablecomponent.Base - Adding the item to cart
+16:31:30.006 [main] INFO  com.mindtree.reusablecomponent.Base - Click on checkout
+16:31:32.094 [main] INFO  com.mindtree.reusablecomponent.Base - Closing the popup
+16:31:37.867 [main] INFO  com.mindtree.reusablecomponent.Base - Order Summary displayed sucessfully
+16:31:45.387 [main] INFO  com.mindtree.reusablecomponent.Base - Accessing the property file
+16:31:45.388 [main] INFO  com.mindtree.reusablecomponent.Base - Maximizing the window
+16:31:50.068 [main] INFO  com.mindtree.reusablecomponent.Base - Clicking on All Of It section from Navigation Bar
+16:31:50.071 [main] INFO  com.mindtree.reusablecomponent.Base - Clicking on next page button
+16:31:53.551 [main] INFO  com.mindtree.reusablecomponent.Base - Verifying Next Page is displayed
+16:32:02.131 [main] INFO  com.mindtree.reusablecomponent.Base - Accessing the property file
+16:32:02.131 [main] INFO  com.mindtree.reusablecomponent.Base - Maximizing the window
+16:32:02.537 [main] INFO  com.mindtree.reusablecomponent.Base - Click on contact us
+16:32:05.585 [main] INFO  com.mindtree.reusablecomponent.Base - Name entered
+16:32:07.747 [main] INFO  com.mindtree.reusablecomponent.Base - Email-id entered
+16:32:09.970 [main] INFO  com.mindtree.reusablecomponent.Base - Message entered
+16:32:12.096 [main] INFO  com.mindtree.reusablecomponent.Base - Click on submit
+16:32:15.448 [main] ERROR com.mindtree.reusablecomponent.Base - Thankyou message is not displayed
+16:32:22.273 [main] INFO  com.mindtree.reusablecomponent.Base - Accessing the property file
+16:32:22.273 [main] INFO  com.mindtree.reusablecomponent.Base - Maximizing the window
+16:32:22.736 [main] INFO  com.mindtree.reusablecomponent.Base - Clicking on GiftCard
+16:32:25.981 [main] INFO  com.mindtree.reusablecomponent.Base - Enter post code in post code column
+16:32:26.466 [main] INFO  com.mindtree.reusablecomponent.Base - Desired Message is displayed
+16:32:44.319 [main] INFO  com.mindtree.reusablecomponent.Base - Accessing the property file
+16:32:44.320 [main] INFO  com.mindtree.reusablecomponent.Base - Maximizing the window
+16:32:44.750 [main] INFO  com.mindtree.reusablecomponent.Base - Validating Title Image
+16:32:45.043 [main] INFO  com.mindtree.reusablecomponent.Base - Validating Navigation Bar
+16:32:55.416 [main] INFO  com.mindtree.reusablecomponent.Base - Accessing the property file
+16:32:55.416 [main] INFO  com.mindtree.reusablecomponent.Base - Maximizing the window
+16:32:55.828 [main] INFO  com.mindtree.reusablecomponent.Base - CLicking on sign in button
+16:32:59.612 [main] INFO  com.mindtree.reusablecomponent.Base - Entering username
+16:32:59.862 [main] INFO  com.mindtree.reusablecomponent.Base - Entering Password
+16:32:59.998 [main] INFO  com.mindtree.reusablecomponent.Base - Entered username= testbymanish@gmail.com
+16:32:59.998 [main] INFO  com.mindtree.reusablecomponent.Base - Entered password= testbymanish@123
+16:32:59.999 [main] INFO  com.mindtree.reusablecomponent.Base - Click on login
+16:33:42.790 [main] INFO  com.mindtree.reusablecomponent.Base - Sign in successful
